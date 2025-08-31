@@ -7,10 +7,12 @@ The primary purpose of this repository is to document my learning journey and to
 
 ## Projects Included  
 Here are some of the projects you'll find in this repository:  
-- **Basic Programs**: Simple Python scripts demonstrating basic syntax and concepts.  
-- **Mini Projects**: Beginner-friendly projects like a calculator, number guessing game, etc.  
+- **Beginner Level Programs**: Simple Python scripts demonstrating basic syntax and concepts.  
+      1. Band Name Generator
+      2. Tip Calculator
+<!-- - **Mini Projects**: Beginner-friendly projects like a calculator, number guessing game, etc.  
 - **Intermediate Projects**: Applications of Python in areas such as file handling, APIs, or simple data processing.  
-- **Advanced Practice**: Exploring object-oriented programming, error handling, or other advanced topics.  
+- **Advanced Practice**: Exploring object-oriented programming, error handling, or other advanced topics.   -->
 
 ## How to Use  
 1. Clone the repository:  
