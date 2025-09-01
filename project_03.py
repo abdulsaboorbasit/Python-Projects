@@ -33,8 +33,8 @@ if choice_1 == "left":
         elif choice_3 == "yellow":
             print("You Win!")
         else:
-            print("A crocodile comes in lake and kill you.")
+            print("An angry solider comes and kill you.")
     else:
-        print("You fall in a hole.")
+        print("A crocodile comes in lake and kill you.")
 else:
-    print("Game Over.")
+    print("You fall in a big hole.")
