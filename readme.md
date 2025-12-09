@@ -13,6 +13,7 @@ Here are some of the projects you'll find in this repository:
    3. Treasure Island Game
    4. Rock, Paper, Scissor Game
    5. Password Generator
+   6. Temperature Unit Converter
 <!-- - **Mini Projects**: Beginner-friendly projects like a calculator, number guessing game, etc.  
 - **Intermediate Projects**: Applications of Python in areas such as file handling, APIs, or simple data processing.  
 - **Advanced Practice**: Exploring object-oriented programming, error handling, or other advanced topics.   -->
