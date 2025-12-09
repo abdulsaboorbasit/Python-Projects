@@ -1,11 +1,3 @@
-# Build a simple calculator that performs addition, subtraction, multiplication, division, modulus, and power.
-# The program must:
-# Display a menu
-# Accept two numeric inputs
-# Perform selected operation
-# Handle division-by-zero errors gracefully
-# Loop until user exits
-
 print("<=== Simple Calculator ===>")
 print("1. Addition")
 print("2. Subtraction")
