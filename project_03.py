@@ -1,3 +1,4 @@
+# Treasure Island Game
 print("Welcome to Treasure Island!")
 choice_1 = input("Your mission is to find the treasure. What will you choose left or right? ")
 if choice_1.lower() == "left":
