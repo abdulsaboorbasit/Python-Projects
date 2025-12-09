@@ -1,3 +1,4 @@
+# Rock, Paper, Scissor Game
 import random
 choice = int(input("What will you choose? 0 for Rock, 1 for Paper and 2 for Scissor! "))
 print(f"Your Choice is: {choice}")
