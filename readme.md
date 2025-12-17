@@ -20,9 +20,6 @@ Here are some of the projects you'll find in this repository:
    10. Number Guess Game
 - **Intermediate Level Programs**: Projects that involve more complex logic and data handling.  
    11. Contact Book Application
-<!-- - **Mini Projects**: Beginner-friendly projects like a calculator, number guessing game, etc.  
-- **Intermediate Projects**: Applications of Python in areas such as file handling, APIs, or simple data processing.  
-- **Advanced Practice**: Exploring object-oriented programming, error handling, or other advanced topics.   -->
 
 ## How to Use  
 1. Clone the repository:  
