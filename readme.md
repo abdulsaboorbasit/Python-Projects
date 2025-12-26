@@ -34,7 +34,7 @@ Here are some of the projects you'll find in this repository:
 3. Navigate to the project folder and follow the instructions in its README file.  
 
 ## 🤝 Contributing  
-Contributions are welcome! If you have ideas, improvements, or want to share your own generative AI experiments, feel free to:  
+Contributions are welcome! If you have ideas, improvements, or want to share your own python projects, feel free to:  
 - Fork the repository.  
 - Create a new branch.  
 - Submit a pull request.  
